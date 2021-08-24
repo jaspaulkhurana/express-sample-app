@@ -1,0 +1,1066 @@
+    1  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+    2  brew
+    3  mN brew
+    4  man brew
+    5  exit
+    6  brew
+    7  quit
+    8  logout
+    9  man brew
+   10  exit
+   11  ibmcloud
+   12  man ibmcloud
+   13  exit
+   14  ibmcloud login
+   15  ibmcloud login --sso
+   16  ibmcloud help
+   17  ibmcloud oc
+   18  ibmcloud plugin install container-service\n
+   19  ibmcloud plugin install container-registry\n
+   20  ibmcloud plugin install observe-service\n
+   21  ibmcloud plugin list\n
+   22  ibmcloud oc
+   23  ibmcloud kubectl
+   24  brew install openshift-cli
+   25  ibmcloud oc
+   26  sudo
+   27  brew search java
+   28  brew info java
+   29  brew info java11
+   30  brew install java
+   31  brew info java
+   32  lear
+   33  clear
+   34  brew info java
+   35  brew search java
+   36  brew info
+   37  brew info java
+   38  brew info java11
+   39  ls -ll
+   40  ls -la
+   41  pwd
+   42  ls /Library
+   43  ls /Library/Java/JavaVirtualMachines
+   44  brew tap homebrew/cask-versions
+   45  brew update
+   46  brew tap caskroom/cask
+   47  brew tap homebrew/cask
+   48  brew cask install java
+   49  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   50  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   51  brew install java
+   52  brew reinstall openjdk
+   53  java
+   54  java --version
+   55  brew search java
+   56  brew info java
+   57  echo 'export PATH="/usr/local/opt/openjdk/bin:$PATH"' >> ~/.zshrc
+   58  cat ~/.zshrc
+   59  java
+   60  echo $PATH
+   61  brew info java11
+   62  brew info java16
+   63  brew info java15
+   64  clear
+   65  brew search java
+   66  ls -lsa /usr/local/Cellar/openjdk/
+   67  ls s
+   68  ls -s
+   69  ls -lsa /usr/local/opt/openjd
+   70  ls -lsa /usr/local/opt/openjdk
+   71  cd /usr/local/opt/openjdk
+   72  ls -l
+   73  cd libexec/openjdk.jdk/
+   74  ls -l
+   75  cd Contents
+   76  ls -l
+   77  sudo ln -sfn /usr/local/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk\n
+   78  ls -l
+   79  cd ..\\ncd
+   80  cd \..\\n
+   81  cd ..\..
+   82  cd ../..
+   83  pwd
+   84  java 
+   85  java --version
+   86  echo $Java_Home
+   87  echo $JAVA_HOME
+   88  echo $SHELL
+   89  /usr/libexec/java_home
+   90  pwd
+   91  ls -l
+   92  nano ~/.zshenv
+   93  cd /usr/libexec
+   94  ls -l
+   95  ls -la
+   96  cat java_home
+   97  clear
+   98  /usr/libexec/java_home
+   99  brew search java
+  100  brew java11 info
+  101  brew info java11
+  102  /usr/libexec/java_home
+  103  brew install java
+  104  echo $JAVA_HOME
+  105  ECHO PATH
+  106  echo PATH
+  107  echo $PATH
+  108  brew info java
+  109  pwd
+  110  ls -l
+  111  cd java_home
+  112  cat java_home
+  113  cat java_home
+  114  1;2c
+  115  clear
+  116  /usr/libexec/java_home
+  117  sudo -s
+  118  ls -l
+  119  login
+  120  /usr/libexec/java_home
+  121  java
+  122  ls /library/java
+  123  ls /library/java/JavaVirtualMachines
+  124  ls -l
+  125  ls /library/java/JavaVirtualMachines
+  126  pws
+  127  pwd
+  128  cd ~
+  129  pwd
+  130  cd ..\\n
+  131  cd~
+  132  cd ~
+  133  pwd
+  134  cd \~
+  135  cd ..
+  136  cd ..
+  137  pwd
+  138  ls -l
+  139  sudo ls -l
+  140  sudo -s
+  141  brew install java
+  142  whoami
+  143  login
+  144  pwd
+  145  cd |\n\n\n\n\n
+  146  cd ~
+  147  pwd
+  148  ls -l
+  149  ls -l
+  150  cd documents
+  151  ls -l
+  152  git config --global credential.helper cache\n
+  153  cd do180
+  154  git config --global credential.helper cache\n
+  155  exit
+  156  ipconfig
+  157  ifconfig
+  158  exit
+  159  exit
+  160  echo $SHELL
+  161  exi
+  162  exit
+  163  $SHELL
+  164  echo $SHELL
+  165  https://rol.redhat.com/rol/app/
+  166  oc login --token=sha256~NsGmfDfMP4RES4W9WbfMRGOfWJ1dZHkNY41Z3UvXT1M --server=https://c102-e.eu-de.containers.cloud.ibm.com:30152
+  167  oc version
+  168  oc statys
+  169  oc status
+  170  oc get pods
+  171  oc get all
+  172  oc status
+  173  exit
+  174  oc login --token=sha256~QYOxVbvEna48KOf-S68bEUN_61xE7ap1nkZ388T4ju0 --server=https://c100-e.eu-gb.containers.cloud.ibm.com:31286
+  175  oc status
+  176  oc get pods
+  177  oc
+  178  kubrctl
+  179  kubectl
+  180  ibmcloud
+  181  echo $PATH
+  182  ls /usr/local/bin
+  183  ls
+  184  cd Downloads
+  185  ls
+  186  ls -als
+  187  ls -l
+  188  mv kubectl /usr/local/bin/kubectl
+  189  cd ~
+  190  kubectl
+  191  sudo kubectl
+  192  ls /usr/local/bin/
+  193  exit
+  194  kubectl
+  195  oc
+  196  sudo kubectl
+  197  git
+  198  docker
+  199  docket
+  200  docket
+  201  docker
+  202  docker
+  203  ls /usr/local/bin/
+  204  docker
+  205  docker
+  206  oc login --token=sha256~QYOxVbvEna48KOf-S68bEUN_61xE7ap1nkZ388T4ju0 --server=https://c100-e.eu-gb.containers.cloud.ibm.com:31286
+  207  oc projects
+  208  pwd
+  209  cd /documents/
+  210  ls
+  211  cd /Documents/
+  212  ls
+  213  cd /Documents
+  214  cd Documents
+  215  cd cloudpaks
+  216  ls
+  217  cd integration
+  218  touch CatalogSource
+  219  oc apply -f CatalogSource
+  220  oc login --token=sha256~QYOxVbvEna48KOf-S68bEUN_61xE7ap1nkZ388T4ju0 --server=https://c100-e.eu-gb.containers.cloud.ibm.com:31286
+  221  clear
+  222  oc get project
+  223  oc project
+  224  use project cpi4
+  225  oc create secret docker-registry ibm-entitlement-key \\n    --docker-username=cp \\n    --docker-password=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJQk0gTWFya2V0cGxhY2UiLCJpYXQiOjE2Mjc2ODE2ODAsImp0aSI6IjkxYmM3ZmI3ZmViMDRmM2M5ZTZmNWY4ZDliOTZmNGNiIn0.W182h6ICXot5adzQ-E_QUESllR4BsA7fuDajcibWBJQy \\n    --docker-server=cp.icr.io \\n    --namespace=cpi4
+  226  oc create secret docker-registry ibm-entitlement-key \\n    --docker-username=cp \\n    --docker-password=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJQk0gTWFya2V0cGxhY2UiLCJpYXQiOjE2Mjc2ODE2ODAsImp0aSI6IjkxYmM3ZmI3ZmViMDRmM2M5ZTZmNWY4ZDliOTZmNGNiIn0.W182h6ICXot5adzQ-E_QUESllR4BsA7fuDajcibWBJQy \\n    --docker-server=cp.icr.io \\n    --namespace=cp4i
+  227  oc extract secret/pull-secret -n openshift-config --keys=.dockerconfigjson --to=. --confirm
+  228  oc login
+  229  oc login --token=sha256~ireV6MiZDhUwHKYya1lOODHY_Irs9LUkpA3ngl-MetY --server=https://c100-e.eu-gb.containers.cloud.ibm.com:31286
+  230  oc projecy
+  231  oc project
+  232  oc status
+  233  oc get routes
+  234  oc get service
+  235  oc extract secret/pull-secret -n openshift-config --keys=.dockerconfigjson --to=. --confirm
+  236  cat .dockerconfigjson | jq > .dockerconfigjson.orig\nmv .dockerconfigjson.orig .dockerconfigjson
+  237  wget -O jq https://github.com/stedolan/jq/releases/download/jq-1.6/jq-linux64\nchmod +x ./jq\ncp jq /usr/bin
+  238  wget -O jq https://github.com/stedolan/jq/releases/download/jq-1.6/jq-linux64\nchmod +x ./jq
+  239  yum install -y epel-release
+  240  brew install jq
+  241  cat .dockerconfigjson | jq > .dockerconfigjson.orig\nmv .dockerconfigjson.orig .dockerconfigjson
+  242  echo "cp:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJQk0gTWFya2V0cGxhY2UiLCJpYXQiOjE2Mjc2ODE2ODAsImp0aSI6IjkxYmM3ZmI3ZmViMDRmM2M5ZTZmNWY4ZDliOTZmNGNiIn0.W182h6ICXot5adzQ-E_QUESllR4BsA7fuDajcibWBJQ" | base64
+  243  {\n   "auths": {\n      "cp.icr.io" : {\n         "auth": "Y3A6ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnBjM01pT2lKSlFrMGdUV0Z5YTJWMGNHeGhZMlVpTENKcFlYUWlPakUyTWpjMk9ERTJPREFzSW1wMGFTSTZJamt4WW1NM1ptSTNabVZpTURSbU0yTTVaVFptTldZNFpEbGlPVFptTkdOaUluMC5XMTgyaDZJQ1hvdDVhZHpRLUVfUVVFU2xsUjRCc0E3ZnVEYWpjaWJXQkpRCg=="\n      }\n   }\n}
+  244  clear
+  245  find dockerconfigjson
+  246  man find
+  247  man find
+  248  ls
+  249  echo "cp:entitlement_key" | base64
+  250  echo "cp:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJQk0gTWFya2V0cGxhY2UiLCJpYXQiOjE2Mjc2ODE2ODAsImp0aSI6IjkxYmM3ZmI3ZmViMDRmM2M5ZTZmNWY4ZDliOTZmNGNiIn0.W182h6ICXot5adzQ-E_QUESllR4BsA7fuDajcibWBJQ" | base64
+  251  cat dockerconfigjson
+  252  oc project
+  253  oc get routes --namespace=cp4i
+  254  clear
+  255  oc login --token=sha256~f4VkwqG28XTquiAQNKoWgv8DihGnzTjnqpEwEDBlEmM --server=https://c100-e.eu-gb.containers.cloud.ibm.com:31286\nUse this token directly against the API
+  256  oc get routes --namespace=cp4i
+  257  pwd
+  258  cd Documents
+  259  cd checkride
+  260  ls
+  261  git clone git@github.ibm.com:TechnologyGarage/tg-cloud-engineering-checkrides.git
+  262  ssh-keygen -t ed25519 -C "jaspaul.khurana@ibm.com"
+  263  open ~/.ssh/config
+  264  touch ~/.ssh/config
+  265  open ~/.ssh/config
+  266  cat ~/.ssh/git_sh
+  267  cat ~/.ssh/id_ed25519
+  268  ls ~/.ssh/
+  269  cds ~/.ssh/
+  270  cd ~/.ssh/
+  271  ls
+  272  cd config
+  273  cat config
+  274  cat known_hosts
+  275  ssh-keygen -t ed25519 -C "jaspaul.khurana@ibm.com"
+  276  open ~/.ssh/config
+  277  eval "$(ssh-agent -s)"
+  278  ls
+  279  cat id_ed25519
+  280  cat id_ed25519.pub
+  281  cd ~
+  282  cd Documents
+  283  cd checkride
+  284  ls
+  285  git clone git@github.ibm.com:TechnologyGarage/tg-cloud-engineering-checkrides.git
+  286  exit
+  287  cd Documents
+  288  ls
+  289  cd checkride
+  290  ls
+  291  cd tg-cloud-engineering-checkrides
+  292  ls
+  293  cd createCustomer_Scenario
+  294  cd stub
+  295  ls
+  296  ./gradlew
+  297  clear
+  298  nano ~/.zshenv
+  299  vim ~/.zshenv
+  300  source ~/.zshenv
+  301  echo $JAVA_HOME
+  302  /usr/libexec/java_home -V
+  303  brew install gradle
+  304  ./gradlew
+  305  java -version
+  306  brew search java
+  307  brew info java
+  308  brew install openjdk@11
+  309  which java
+  310  java -version
+  311  java --version
+  312  brew search java
+  313  brew info java11
+  314  ls -lsah /Library/Java/JavaVirtualMachines/  
+  315  vim ~/.zshev
+  316  mqsicreatebroker TESTNODE
+  317  ./gradlew
+  318  pw
+  319  pwd
+  320  ls -l
+  321  cd createCustomer_Scenario
+  322  ls -l
+  323  cd stub
+  324  clear
+  325  ls
+  326  gradlew
+  327  ./gradlew
+  328  ./gradlew
+  329  ./gradle
+  330  ./gradlew
+  331  clear
+  332  which java
+  333  java --version
+  334  echo $JAVA_HOME
+  335  echo $JAVA_HOME
+  336  source ~/.zshenv
+  337  echo $JAVA_HOME
+  338  ./gradlew
+  339  ./gradlew
+  340  ./gradlew clean build
+  341  ls -l
+  342  vim settings.gradle
+  343  cd gradle
+  344  ls -l
+  345  cd wrapper
+  346  ls -l
+  347  vim gradle-wrapper.properties
+  348   pws
+  349  pwd
+  350  cd ..\..\\n
+  351  cd ..
+  352  cd ..
+  353  ls
+  354  ./gradlew clean build
+  355  clear
+  356  pwd
+  357  cd ..
+  358  ls
+  359  cd stub
+  360  cd deployment/docker
+  361  docker-compose up --build -d
+  362  oc login --token=sha256~lGMd7HqqmBORzPwYta0lyTlyuYmEu4Yf5yNxkpWxPsc --server=https://c100-e.eu-gb.containers.cloud.ibm.com:31286
+  363  oc new-project soapserver
+  364  cd \..
+  365  cd \..\ncd \..\..
+  366  cd \..
+  367  clear
+  368  oc project soapserver
+  369  oc get routes
+  370  oc get routes
+  371  oc login --token=sha256~RBSI8Fv9OdRQfWbyACE8gfj9M2F3-m3jjWq9Xkuj-5Q --server=https://c100-e.eu-gb.containers.cloud.ibm.com:31286
+  372  oc status
+  373  docker images
+  374  docker os
+  375  docker ps
+  376  cd /Users/jaspaulkhurana/IBM/ACET12/workspace/Transformation_ESQL
+  377  curl -X POST http://localhost:32768/Transformation_ESQL -d @./input.xml | xmllint --format -
+  378  ls
+  379  curl -X POST http://localhost:32768/Transformation_ESQL -d input.xml | xmllint --format -
+  380  pwd
+  381  curl -X POST http://localhost:32768/Transformation_ESQL -d /Users/jaspaulkhurana/IBM/ACET12/workspace/Transformation_ESQL/input.xml | xmllint --format -
+  382  curl -X POST http://localhost:7600/Transformation_ESQL -d /Users/jaspaulkhurana/IBM/ACET12/workspace/Transformation_ESQL/input.xml | xmllint --format -
+  383  curl -X POST http://localhost:7600/Transformation_ESQL -d /Users/jaspaulkhurana/IBM/ACET12/workspace/Transformation_ESQL/input.xml | xmllint --format -
+  384  curl -X POST http://localhost:7600/Transformation_ESQL -d @./input.xml | xmllint --format -
+  385  curl -X POST http://localhost:7600/Transformation_ESQL -d /Users/jaspaulkhurana/IBM/ACET12/workspace/Transformation_ESQL/input.xml | xmllint --format -
+  386  curl -X POST http://localhost:7600/Transformation_ESQL -d @./input.xml | xmllint --format -
+  387  clear
+  388  curl -X POST http://localhost:7600/Transformation_ESQL -d @./input.xml | xmllint --format -
+  389  curl -X POST http://localhost:7800/Transformation_ESQL -d @.\Transformation_ESQL\input.xml
+  390  curl -X POST http://localhost:7800/Transformation_ESQL -d @.\input.xml
+  391  curl -X POST http://localhost:7800/Transformation_ESQL -d @./input.xml | xmllint --format -
+  392  ls
+  393  cat input.xml
+  394  curl -X POST http://localhost:7800/Transformation_ESQL -d @./input.xml
+  395  curl -X POST http://localhost:7800/Transformation_ESQL -d @./input.xml
+  396  curl -X POST http://localhost:7800/Transformation_ESQL -d @./input.xml | xmllint --format -
+  397  mqsicreatebroker TESTNODE
+  398  ls
+  399  cd ..
+  400  ls
+  401  cd Transformation_
+  402  cd Transformation_Map
+  403  ls
+  404  curl -X POST http://localhost:7800/Transformation_Map -d @.input.xml
+  405  ls
+  406  cat input.xml
+  407  curl -X POST http://localhost:7800/Transformation_Map -d @./input.xml
+  408  ls
+  409  cd ..
+  410  ls
+  411  ls -a
+  412  cd .metadata
+  413  l
+  414  ls
+  415  oc patch configs.imageregistry.operator.openshift.io/cluster --patch '{"spec":{"defaultRoute":true}}' --type=merge
+  416  oc get routes
+  417  oc get routes -n openshift-image-registry -o=jsonpath='{.items[0].spec.host}{"\n"}'
+  418  ls
+  419  cd createCustomer_Scenario
+  420  ls
+  421  cd stub
+  422  ls
+  423  cd deployment/ocp
+  424  ls
+  425  generate_image.sh
+  426  ./generate_image.sh
+  427  oc get is -n soapserver
+  428  deploy.sh ocp
+  429  ./deploy.sh ocp
+  430  ./deploy.sh ocp apply
+  431  docker pull ibmcom/ace-server
+  432  docker run --name aceserver -p 7600:7600 -p 7800:7800 -p 7843:7843 --env LICENSE=accept --env ACE_SERVER_NAME=ACESERVER ibmcom/ace-server:latest
+  433  ./gradlew clean build
+  434  ./gradlew clean build --stacktrace
+  435  which java
+  436  java --version
+  437  echo $PATH
+  438  clear
+  439  echo $ENV
+  440  echo $JAVA_HOME
+  441  ./gradlew
+  442  vim ~/.zshenv
+  443  echo %JAVA_HOME
+  444  echo $JAVA_HOME
+  445  /usr/libexec/java_home -v11
+  446  docker ps
+  447  brew install xmlstarlet
+  448  icc
+  449  jq
+  450  ic
+  451  ibmcloud
+  452  ibmcloud ks
+  453  ibmcloud ks
+  454  ibmcloud cr
+  455  ibmcloud ob
+  456  clear
+  457  ibmcloud ob
+  458  icc
+  459  kq
+  460  jq
+  461  kubectl
+  462  sudo kubectl
+  463  brew install kubectl
+  464  kubectl
+  465  rm '/usr/local/bin/kubectl'
+  466  brew install kubectl
+  467  brew link kubernetes-cli
+  468  kubectl 
+  469  kubectl version --client
+  470  kubectl cluster-info
+  471  kubectl cluster-info dump
+  472  kind
+  473  brew install kind
+  474  kind
+  475  brew instal minikube
+  476  minikube
+  477  brew install kubeadm
+  478  brew install kusomize
+  479  brew install kustomize
+  480  node
+  481  node
+  482  nv
+  483  nvm
+  484  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash\n
+  485  nvm
+  486  exit
+  487  nvm
+  488    brew install tektoncd-cli\n
+  489  sh -c "$(curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh)"\n
+  490  yq
+  491  jq
+  492  brew install yq
+  493  ibmcloud login --apikey 6nLXtKsHvsooGnG6SSMQCjM9m0ZBebxbPiPW7Q-gVEhI -r us-south
+  494  ibmcloud ks clusters
+  495  sh -c "$(curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh)"\n
+  496  icc
+  497  curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh
+  498  icc
+  499  source ~/.zshrc
+  500  icc
+  501  tkn version
+  502  clear
+  503  curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh
+  504  kubeadm
+  505  exit
+  506  /Applications/IBM\ App\ Connect\ Enterprise.app/Contents/mqsi/.internal/ace_terminal ; exit;
+  507  sudo tar xzf "/Applications/IBM App Connect Enterprise.app/Contents/mqsi/tools/Eclipse.app/Contents/eclipse/../../../openapieditor/open-api-editor.tar.gz" -C "/Applications/IBM App Connect Enterprise.app/Contents/mqsi/tools/Eclipse.app/Contents/eclipse/../../../openapieditor" 
+  508  sudo tar xzf "/Applications/IBM App Connect Enterprise.app/Contents/mqsi/tools/Eclipse.app/Contents/eclipse/../../../openapieditor/open-api-editor.tar.gz" -C "/Applications/IBM App Connect Enterprise.app/Contents/mqsi/tools/Eclipse.app/Contents/eclipse/../../../openapieditor" 
+  509  docker ps
+  510  docker run --name aceserver -p 7600:7600 -p 7800:7800 -p 7843:7843 --env LICENSE=accept --env ACE_SERVER_NAME=ACESERVER ibmcom/ace-server:latest
+  511  docker images
+  512  clear
+  513  docker ps all
+  514  docker ps --all
+  515  /Applications/IBM\ App\ Connect\ Enterprise.app/Contents/mqsi/.internal/ace_terminal ; exit;
+  516  curl --request POST \\n  --url http://jaspauls-mbp:7801/checkride_jk/v1/createCustomer \\n  --header 'accept: application/json' \\n  --header 'content-type: application/json' \\n  --data {\nid:45800664\nfirstname:"Nettie"\nlastname:"Verheul"\nphone:"(879) 860-4198"\naddress:"598 Cimvic Lane"\n}
+  517  curl --request POST \\n  --url http://jaspauls-mbp:7801/checkride_jk/v1/createCustomer \\n  --header 'accept: application/json' \\n  --header 'content-type: application/json' \\n  --data "{\nid:45800664\nfirstname:"Nettie"\nlastname:"Verheul"\nphone:"(879) 860-4198"\naddress:"598 Cimvic Lane"\n}"
+  518  curl --request POST \\n  --url http://jaspauls-mbp:7801/checkride_jk/v1/createCustomer \\n  --header 'accept: application/json' \\n  --header 'content-type: application/json' \\n  --data "{}"
+  519  pwd
+  520  ls
+  521  cd IBM
+  522  ls
+  523  cd ACET1
+  524  cd ACET11
+  525  ls
+  526  cd workspace
+  527  ls
+  528  cd checkride_jk
+  529  ls
+  530  cd wsdl
+  531  touch customerDetails.wsdl
+  532  cat customerDetails.wsdlt
+  533  cat customerDetails.wsdl
+  534  ls
+  535  touch customerDetails.wsdl
+  536  ls -l
+  537  pwd
+  538  cd ..
+  539  ls -ls
+  540  cd /Users/jaspaulkhurana/IBM/ACET11/workspace/checkride_jk
+  541  cd gen
+  542  touch customerDetails.wsdl
+  543  touch customerDetails.wsdl
+  544  exit
+  545  https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh
+  546  clear
+  547  clear
+  548  sh -c "$(curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh)"
+  549  curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh
+  550  git
+  551  git
+  552  clear
+  553  which git
+  554  curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh | .zsh
+  555  curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh | zsh
+  556  curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh | sh
+  557  sh -c "$(curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh)"
+  558  git config --global user.email jaspaul.khurana@gmail.com
+  559  sh -c "$(curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh)"
+  560  sh -c "$(curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh)"git config --global user.name jaspaul khurana
+  561  sh -c "$(curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh)"
+  562  git config --global user.name "jaspaul khurana"
+  563  sh -c "$(curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh)"
+  564  sh -c "$(curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh)"
+  565  sh -c "$(curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh)"
+  566  which tkn
+  567  ls /usr/bin/
+  568  icc
+  569  sh -c "$(curl -fsSL https://raw.githubusercontent.com/upslopeio/ibm-cloud-garage-training/main/computer-setup/setup-mac-linux.sh)"
+  570  icc
+  571  ls ~/bin
+  572  ls ~
+  573  ls ~/bin
+  574  exit
+  575  ls
+  576  history
+  577  ls
+  578  git branch
+  579  git checkout jaspaul-kh-git-assignment
+  580  ls
+  581  cd git-assignmen
+  582  cd git-assignments
+  583  ls
+  584  cd git-assignment
+  585  ls
+  586  git checkout main
+  587  ls
+  588  git pull
+  589  git status
+  590  cd ..
+  591  ls
+  592  pwdd
+  593  pwd
+  594  git pull
+  595  git branch
+  596  git switch jaspaul-kh-git-assignment
+  597  pwd
+  598  git pull
+  599  ls
+  600  git checkout main
+  601  git pull
+  602  git status
+  603  git pull origin/jaspaul-kh-git-assignment
+  604  git pull remote/jaspaul-kh-git-assignment
+  605  git pull /remote/jaspaul-kh-git-assignment
+  606  git switch origin/jaspaul-kh-git-assignment
+  607  git switch jaspaul-kh-git-assignment
+  608  ls
+  609  ls git-assignment
+  610  cat git-assignment/git-response.md
+  611  vim git-assignment/git-response.md 
+  612  cat git-assignment/git-response.md 
+  613  git status
+  614  git commit -a
+  615  git status
+  616  git push
+  617  git status
+  618  git checkout main
+  619  git pull
+  620  pwd
+  621  git checkout -b jaspaul-kh-cli-assignment
+  622  ls
+  623  pwd
+  624  mkdir cli-assignment
+  625  cd cli-assignment
+  626  ls
+  627  cat cli.sh
+  628  ./ cli.sh
+  629  ls cli.sh
+  630  ls -ls
+  631  chmod 777 cli.sh
+  632  ls -ls
+  633  chmod 755 cli.sh
+  634  ls -ls
+  635  ./cli.sh
+  636  ls
+  637  cat cli-output.txt
+  638  ls
+  639  ./cli.sh
+  640  cat cli-output.txt
+  641  man mv
+  642  ./cli.sh
+  643  ls
+  644  cd archive
+  645  ls
+  646  pwd
+  647  mv cli-output.txt /archive/how-path-works.txt 
+  648  cd ..
+  649  ls
+  650  mv cli-output.txt /archive/how-path-works.txt
+  651  mv cli-output.txt archive/how-path-works.txt
+  652  ./cli.sh
+  653  cat ./cli.sh
+  654  ./cli.sh
+  655  ls
+  656  ./cli.sh
+  657  history
+  658  ./cli.sh
+  659  git status
+  660  cd ..
+  661  pwd
+  662  ls
+  663  cd jaspaul-khurana
+  664  ls
+  665  cd cli-assignment
+  666  ls
+  667  git status
+  668  cd ..
+  669  ls
+  670  git status
+  671  git add .
+  672  git status
+  673  git unstage .
+  674  git reset
+  675  git status
+  676  git add cli-assignment/
+  677  git status
+  678  git reset
+  679  git status
+  680  cd cli-assignment
+  681  ls
+  682  git add cli.sh
+  683  git status
+  684  git commit 
+  685  git push
+  686  git push --set-upstream origin jaspaul-kh-cli-assignment
+  687  ls
+  688  git status
+  689  clear
+  690  docker version
+  691  clear
+  692  which docker
+  693  docker version
+  694  docker run hello-world
+  695  docker images
+  696  cd ..
+  697  npx express-generator express-app
+  698  ls
+  699  cd express-app
+  700  ls
+  701  touch Dockerfile
+  702  npm install
+  703  npm start
+  704  touch .gitignore
+  705  touch .dockeringnore
+  706  docker build -t ibm/expressapp-jk
+  707  docker build -t ibm/expressapp-jk .
+  708  docker run --rm -d ibm/express-app
+  709  docker run --rm -d ibm/express-app-jk
+  710  docker run --rm -d -p 3001:3000 docker.io/ibm/expressapp-jk
+  711  docker ps
+  712  pwd
+  713  cd ..
+  714  mkdir ~/workspace
+  715  cd ~/workspace
+  716  ls
+  717  pwd
+  718  npx create-react-app react-intro
+  719  npm start
+  720  which npx
+  721  npm start
+  722  cd react-intro
+  723  npm start
+  724  icc
+  725  icc login jaspaul/dteroks/ibmcloud-roks-rgplw
+  726  icc jaspaul/dteroks/ibmcloud-roks-rgplw
+  727  oc config current-context
+  728  cd ..
+  729  pwd
+  730  cd Documents
+  731  ls
+  732  cd cloud-bootcamp
+  733  ls
+  734  cd emea-4-assignments
+  735  git checkout main
+  736  git checkout -b jaspaul-kh-k8s-assignment
+  737  ls
+  738  cd jaspaul-khurana
+  739  ls
+  740  mkdir k8s-assignment
+  741  cd k8s-assignment
+  742  ls
+  743  touch k8s-questions.md
+  744  git status
+  745  ls
+  746  git add k8s-questions.md
+  747  git status
+  748  git commit 
+  749  git push
+  750  curl --request POST \\n  --url http://127.0.0.1:7800/checkride_jk/v1/createCustomer \\n  --header 'accept: application/json' \\n  --header 'content-type: application/json' \\n  --data { firstname:"Blanche" lastname:"Gianassi" phone:"286 310-5210" address:"1012 Biuza Circle" brand:"orojujusaazpo" }
+  751  oc login
+  752  cd ~/
+  753  pwd
+  754  ls
+  755  cd Documents
+  756  ls
+  757  cd checkride
+  758  ls
+  759  oc login --token=sha256~iKL9TZY7rtjUOsMrgCkolEKUCCCMaaGtCAdW6hpgt3Q --server=https://c100-e.eu-gb.containers.cloud.ibm.com:31286
+  760  \noc get secret ibm-entitlement-key --namespace=cp4i --export -o yaml |\\n   oc apply --namespace=ace -f -
+  761  oc get secret -n ace
+  762  npm start
+  763  npm test
+  764  docker build --no-cache -t dockerized-react-app .
+  765  docker run -it -p 8080:8080 --rm dockerized-react-app
+  766  docker run -it -p 8081:8080 --rm dockerized-react-app
+  767  docker exec -it 6529500dcf8a881d438aacf4067219e1af61f49bea581379559bf8a47b80056a /bin/sh
+  768  docker ps
+  769  git clone git@github.com:cloud-native-garage-method-cohort/emea-4-Jaspaul-khurana.git
+  770  git status
+  771  ls
+  772  ls -a
+  773  rm emea-4-Jaspaul-khurana
+  774  rm -f emea-4-Jaspaul-khurana
+  775  delete  emea-4-Jaspaul-khurana
+  776  rm -d  emea-4-Jaspaul-khurana
+  777  rm -d -r emea-4-Jaspaul-khurana
+  778  ls
+  779  git add -A
+  780  git status
+  781  git remote show origin
+  782  git remote -v
+  783  git config --get remote.origin.url
+  784  git status
+  785  ls
+  786  git commit
+  787  git push
+  788  git reset
+  789  git status
+  790  pwd
+  791  cd ..
+  792  pwd
+  793  git clone git@github.com:cloud-native-garage-method-cohort/emea-4-Jaspaul-khurana.git
+  794  ls
+  795  mv react-intro emea-4-Jaspaul-khurana
+  796  cd emea-4-Jaspaul-khurana
+  797  ls
+  798  git status
+  799  git add .
+  800  git rm --cached react-intro
+  801  git rm -f --cached react-intro
+  802  ls
+  803  cd react-intro
+  804  ls
+  805  status
+  806  git status
+  807  pwd
+  808  ls -a
+  809  rm .git 
+  810  rm -d -r .git 
+  811  y
+  812  ls
+  813  ls -a
+  814  rm -d -r .git
+  815  git status
+  816  ls
+  817  cd emea-4-Jaspaul-khurana
+  818  git status
+  819  cd react-intro
+  820  git status
+  821  git add .
+  822  git status
+  823  git commit
+  824  cd ..
+  825  git status
+  826  git branch --unset-upstream
+  827  git status
+  828  cd react-intro
+  829  git status
+  830  git push
+  831  git push --set-upstream origin master
+  832  pwd
+  833  cd ..
+  834  ls
+  835  cd cloud-bootcamp
+  836  ls
+  837  cd emea-4-assignments
+  838  git switch main
+  839  ls
+  840  git pull
+  841  ls
+  842  git checkout -b jaspaul-kh-docker-assignment
+  843  ls
+  844  cd jaspaul-khurana
+  845  ls
+  846  mkdir docker-assignment
+  847  cd docker-assignment
+  848  s
+  849  ls
+  850  touch docker-assignment.txt
+  851  vim docker-assignment.txt
+  852  catdocker-assignment.txt
+  853  cat docker-assignment.txt
+  854  git status
+  855  ls
+  856  cd ..
+  857  ls
+  858  git status
+  859  git add .
+  860  git status
+  861  git commit
+  862  git status
+  863  git push
+  864  git push --set-upstream origin jaspaul-kh-docker-assignment
+  865  history
+  866  kubectl config view
+  867  kubectl config get-contexts
+  868  oc config get-contexts
+  869  oc config 
+  870  oc config view
+  871  icc
+  872  icc ibmcloud-roks-rgplw
+  873  oc console
+  874  oc new-project jaspaul.khurana-tekton-tasks
+  875  oc new-project jaspaul-khurana-tekton-tasks
+  876  oc project
+  877  cd ~
+  878  pwd
+  879  cd workspace
+  880  ls
+  881  oc config current-config
+  882  oc config get current-config
+  883  oc config
+  884  oc config current-context
+  885  ls
+  886  mkdir tekton-taks
+  887  cd tekton-taks
+  888  touch hello-world-tekton-tasks.yaml
+  889  code .
+  890  ls
+  891  oc create -f hello-world-tekton-tasks.yaml
+  892  oc get tasks
+  893  tkn task start hello-world-tekton-task
+  894  tkn taskrun logs hello-world-tekton-task-run-zb627 -f -n jaspaul-khurana-tekton-tasks
+  895  tkn task
+  896  tkn task list
+  897  tkn taskruns
+  898  tkn taskrun
+  899  tkn taskrun list
+  900  oc get pods
+  901  oc logs hello-world-tekton-task-run-zb627-pod-ntqww
+  902  oc describe pod hello-world-tekton-task-run-zb627-pod-ntqww
+  903  tkn taskrun logs
+  904  pwd
+  905  cd ~/Documents
+  906  ls
+  907  cd cloud-bootcamp
+  908  ls
+  909  cd emea-4-assignments
+  910  ls
+  911  git switch main
+  912  ls
+  913  git pull
+  914  git checkout -b jaspaul-kh-tkn-assignment
+  915  git status
+  916  ls
+  917  cd jaspaul-khurana
+  918  mkdir tekton-task-assignment
+  919  cd tekton-task-assignment
+  920  oc project
+  921  oc create -f tekton-task-assignment.yaml
+  922  tnk tasks
+  923  tkn tasks
+  924  tkn tasks list
+  925  tkn tasks emea4-tekton-task-assignment start 
+  926  tkn tasks start emea4-tekton-task-assignment 
+  927  tkn taskrun logs emea4-tekton-task-assignment-run-ljgl9 -f -n jaspaul-khurana-tekton-tasks
+  928  oc apply -f tekton-task-assignment.yaml
+  929  tkn tasks start emea4-tekton-task-assignment 
+  930  tkn taskrun logs emea4-tekton-task-assignment-run-ljgl9 -f -n jaspaul-khurana-tekton-tasks
+  931  oc apply -f tekton-task-assignment.yaml
+  932  tkn tasks start emea4-tekton-task-assignment 
+  933  oc apply -f tekton-task-assignment.yaml
+  934  tkn tasks start emea4-tekton-task-assignment 
+  935  tkn taskrun logs emea4-tekton-task-assignment-run-qqx99 -f -n jaspaul-khurana-tekton-tasks
+  936  oc apply -f tekton-task-assignment.yaml
+  937  tkn tasks start emea4-tekton-task-assignment 
+  938  tkn taskrun logs emea4-tekton-task-assignment-run-qqx99 -f -n jaspaul-khurana-tekton-tasks
+  939  oc apply -f tekton-task-assignment.yaml
+  940  tkn tasks start emea4-tekton-task-assignment 
+  941  tkn taskrun logs emea4-tekton-task-assignment-run-qqx99 -f -n jaspaul-khurana-tekton-tasks
+  942  oc apply -f tekton-task-assignment.yaml
+  943  tkn tasks start emea4-tekton-task-assignment 
+  944  tkn taskrun logs emea4-tekton-task-assignment-run-vk74h -f -n jaspaul-khurana-tekton-tasks
+  945  tkn taskrun logs emea4-tekton-task-assignment-run-vk74h -f -n jaspaul-khurana-tekton-tasks >> tekton-task-run-output.log
+  946  git status
+  947  ls
+  948  git add .
+  949  git status
+  950  git commit
+  951  git push
+  952  git push --set-upstream origin jaspaul-kh-tkn-assignment
+  953  oc apply -f tekton-task-assignment.yaml
+  954  tkn task ls
+  955  tkn task emea4-tekton-task-assignment start
+  956  tkn task start emea4-tekton-task-assignment 
+  957  tkn taskrun logs emea4-tekton-task-assignment-run-5fm57 -f -n jaspaul-khurana-tekton-tasks
+  958  cd ~
+  959  ls
+  960  cd workspace
+  961  ls
+  962  cd tekton-taks
+  963  ls
+  964  kubectl apply -f https://raw.githubusercontent.com/tektoncd/catalog/main/task/wget/0.1/wget.yaml\n
+  965  tkn task start wget
+  966  tkn version
+  967  ls
+  968  cd ~\Documents
+  969  cd ~/Documents
+  970  ls
+  971  cd cloud-bootcamp
+  972  ls
+  973  cd emea-4-assignments
+  974  ls
+  975  cd jaspaul-khurana
+  976  ls
+  977  mkdir tekton-catalog-assignment
+  978  ls
+  979  cd tekton-catalog-assignment
+  980  ls
+  981  oc new-project Jaspaul-kh--tekton-catalog-assignment
+  982  oc project
+  983  oc new-project jaspaul-kh-tekton-catalog-assignment
+  984  oc project
+  985  kubectl apply -f https://raw.githubusercontent.com/tektoncd/catalog/main/task/curl/0.1/curl.yaml
+  986  tkn task list
+  987  ls
+  988  oc apply -f curl-task-run.yaml
+  989  tkn taskrun list
+  990  tkn log emea4-tekton-curltask-run
+  991  tkn help
+  992  tkn taskrun--help
+  993  tkn taskrun ls
+  994  oc apply -f curl-task-run.yaml
+  995  tkn task ls
+  996  tkn task start curl
+  997  oc project
+  998  git status
+  999  git restore
+ 1000  git restore ../tekton-task-assignment/tekton-task-assignment.yaml
+ 1001  git status
+ 1002  pwd
+ 1003  git status
+ 1004  git add .
+ 1005  git status
+ 1006  git commit
+ 1007  git push
+ 1008  kubectl apply -f https://raw.githubusercontent.com/tektoncd/catalog/main/task/github-add-comment/0.4/github-add-comment.yaml\n
+ 1009  oc project
+ 1010  oc apply -f https://raw.githubusercontent.com/tektoncd/catalog/main/task/github-add-comment/0.4/github-add-comment.yaml
+ 1011  tkn version
+ 1012  kubectl apply -f https://raw.githubusercontent.com/tektoncd/catalog/main/task/github-add-comment/0.2/github-add-comment.yaml
+ 1013  tnk taskrun ls
+ 1014  tkn taskrun ls
+ 1015  tkn task ls
+ 1016  kubectl create secret generic github --from-literal token="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"
+ 1017  ls
+ 1018  oc apply -f add-comment-to-issue-task-run.yaml
+ 1019  oc project
+ 1020  tkn taskrun logs
+ 1021  oc apply -f add-comment-to-issue-task-run.yaml
+ 1022  tkn taskrun logs
+ 1023  cd ~
+ 1024  ls
+ 1025  cd workspace
+ 1026  ls
+ 1027  cd emea-4-Jaspaul-khurana
+ 1028  git clone git@github.com:jaspaulkhurana/express-sample-app.git
+ 1029  code.
+ 1030  code .
+ 1031  ls
+ 1032  cd express-sample-app
+ 1033  ls
+ 1034  npm install
+ 1035  npm start
+ 1036  npm test
+ 1037  git status
+ 1038  git add views/index.pug
+ 1039  git commit m "personalised express app"
+ 1040  git commit -m "personalised express app"
+ 1041  git push
+ 1042  #docker build -t quay.io/jaspaulkhurana/express-sample-app:<SHA> .
+ 1043  docker build -t quay.io/jaspaulkhurana/express-sample-app:09ba6f989c0d7e2ede12523626f3dde8921358e9 .
+ 1044  docker build -t quay.io/jaspaul_khurana_ibm/express-sample-app:09ba6f989c0d7e2ede12523626f3dde8921358e9 .
+ 1045  docker login -u="jaspaul_khurana_ibm+quay_io_credentials" -p="0KZEYHFUFOJ38RHSGKFLG53PQXQ154H6UP68RARXK1RECH5UT3IEX3U5FOP8UHW8" quay.io
+ 1046  docker images
+ 1047  git remote -v
+ 1048  git log
+ 1049  docker push https://quay.io/repository/jaspaul_khurana_ibm/express-sample-app:09ba6f989c0d7e2ede12523626f3dde8921358e9
+ 1050  docker push quay.io/repository/jaspaul_khurana_ibm/express-sample-app:09ba6f989c0d7e2ede12523626f3dde8921358e9
+ 1051  docker images
+ 1052  docker push quay.io/jaspaul_khurana_ibm/express-sample-app:09ba6f989c0d7e2ede12523626f3dde8921358e9
+ 1053  docker images
+ 1054  docker push quay.io/jaspaul_khurana_ibm/express-sample-app:09ba6f989c0d7e2ede12523626f3dde8921358e9
+ 1055  docker images
+ 1056  ls
+ 1057  cd k8s
+ 1058  cat deployment.yaml > env.yaml
+ 1059  echo "---" >> env.yaml
+ 1060  cat service.yaml >> env.yaml
+ 1061  echo "---" >> env.yaml
+ 1062  cat route.yaml >> env.yaml
+ 1063  icc
+ 1064  icc ibmcloud-roks-rgplw 
+ 1065  oc new-project jk-express-sample-app
+ 1066  oc create -f env.yaml
